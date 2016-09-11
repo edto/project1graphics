@@ -20,6 +20,9 @@ the random nature of the Diamond Square algorithm, on some invocations, water
 may not be visible or in others, may instead dominate the landscape. The program
 should be rerun until a satisfactory landscape is generated.
 
+The lighting map may need to be rebuilt when running on a new device for the 
+first time. You MUST rebuild the lightmaps for satisfactory lighting.
+
 
 MECHANICS:
 Terrain is procedually generated on each invocation of the program by using the
